@@ -3,7 +3,7 @@ College Football Universe Builder
 
 A 50-year college football universe for Football Coach: College Dynasty, designed so the right teams win, upsets feel real, and dynasties rise and fall believably.
 
-Built by Carol Waldman as a gift for my son's Wisconsin dynasty, in collaboration with Claude (Anthropic's AI) as the technical partner.
+Built by Andrew Waldman in collaboration with Claude (Anthropic's AI) as the technical partner.
 
 The challenge
 
